@@ -27,9 +27,9 @@ completed.
 
 ## Markdown Syntax
 
-![Markdown Mark](https://raw.github.com/dcurtis/markdown-mark/master/png/208x128.png)
+![Markdown Mark](https://raw.github.com/dcurtis/markdown-mark/master/png/66x40.png)
 
-When editing your <code>EXERCISES.md</code> file, please be sure to consult the
+When editing your <code>EXERCISES.md</code> files, please be sure to consult the
 [GitHub Flavored Markdown Guide](https://help.github.com/articles/github-flavored-markdown)
 as well as the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax)
 to ensure that your document is properly formatted.
