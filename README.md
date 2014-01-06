@@ -22,8 +22,32 @@ Instructions for these files are usually contained inside of the
 that assignment should indicate what <code>.java</code> files need to be
 completed.
 
+The <code>README.md</code> for each assignment also includes the
+submission instructions.
+
+## Downloading the Repository
+
+In order to work on your homework assignments this semester, you'll need to 
+"clone" the repository into your <code>nike.cs.uga.edu</code> account
+for Homework 1. Don't worry about what that exactly means at the moment.
+We'll cover <code>git</code> and other kinds of version control once
+we're a little further into the semester. Once you've "cloned" the repository
+once, you only need to "pull" changes from it in order to get the latest
+version (explained below). Here is how you can "clone" the repository in
+order to start working on Homework 1. 
+
+ 1. Login to your <code>nike.cs.uga.edu</code> account via SSH.
+ 2. Ensure that you're in your home directory by typing the following command
+    into the prompt in the terminal shell:
+
+    ```
+    $ cd ~
+    ```
+ 3. t
+
 ## Getting the Latest Homework Assignments
 
+In order to get the latest ver
 
 ## Markdown Syntax
 
