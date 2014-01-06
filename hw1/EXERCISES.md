@@ -3,17 +3,10 @@
 
 Name: YOUR NAME HERE (LAST 3 DIGITS OF 810 NUMBER HERE)
 
-<-- replace this with your answers //-->
-
-* The general formatting guidelines for README files in this class correspond to
-the Markdown format. For more information on Markdown, please check out
-[this link](http://daringfireball.net/projects/markdown/syntax). *
-
-
 ## Lewis EX 1.1
 
-** Give examples of two types of Java comments, and explain the differences
-between them. **
+**Give examples of two types of Java comments, and explain the differences
+between them.**
 
  1. Comments beginning with <code>//</code> are single line comments.
  2. Comments beginning with <code>/*</code> and ending in <code>*/</code> are 
