@@ -65,7 +65,7 @@ the following commands:
 ```
 $ cd ~/cs1302-spring-2014-hw
 $ git pull
-``
+```
 
 ## Markdown Syntax
 
