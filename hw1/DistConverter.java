@@ -11,10 +11,13 @@ public class DistConverter {
      */
     public static void main(String[] args) {
 	
-	// In space below, write a program that converts miles to
-	// kilometers. One mile equals 1.60935 kilometers. Read
-	// the miles value from the user as a floating point value.
-
+	/* 
+            In space below, write a program that converts miles to
+	    kilometers. One mile equals 1.60935 kilometers. Read
+	    the miles value from the user as a floating point value
+            with double precision. 
+        */
+            
 	// You may assume non-erroneous input.
 		
     } // main
