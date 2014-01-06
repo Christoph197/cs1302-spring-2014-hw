@@ -28,7 +28,7 @@ Note: Only two examples were required.
  * <code>level2</code>
  * <code>MAX_SIZE</code>
  * <code>highest$</code>
- * <code>hook&ladder</code>**
+ * <code>hook&ladder</code>
 </strong>
 
 Replace this with your answer...
@@ -84,25 +84,86 @@ Replace this with your answer...
 
 ## Lewis EX 2.1
 
+**Explain the following program statement in terms of objects and the services
+they provide.**
+
+<strong>
+```java
+System.out.println("I gotta be me!");
+```
+</strong>
+
 Replace this with your answer...
 
 
 ## Lewis EX 2.4
 
-Replace this with your answer...
+**What output is produced by the following statement? Explain.**
+
+<strong>
+```java
+System.out.println("50 plus 25 is " + 50 + 25);
+```
+</strong>
+
+*You may delete this sentence and use the following template in order to
+answer this exercise question.*
+
+The output of the statement is the following:
+
+```
+replace this with the actual output
+```
+
+The reason for this is because... 
 
 
 ## Lewis EX 2.6
+
+**What calue is contained in the integer variable <code>size</code> after the
+following statements are executed?**
+
+<strong>
+```java
+size = 18;
+size = size + 12;
+size = size * 2;
+size = size / 4;
+```
+</strong>
 
 Replace this with your answer...
 
 
 ## Lewis EX 2.7
 
+**What value is contained in the floating point variable <code>depth</code> 
+after the following statements are executed?**
+
+<strong>
+```java
+depth = 2.4;
+depth = 20 - depth * 4;
+depth = depth / 5;
+```
+</strong>
+
 Replace this with your answer...
 
 
 ## Lewis EX 2.8
+
+**What value is contained in the integer variable <code>length</code> after the
+following statements are executed?**
+
+<strong>
+```java
+length = 5;
+length *= 2;
+length *= length;
+length /= 100;
+```
+</strong>
 
 Replace this with your answer...
 
