@@ -1,6 +1,8 @@
 
 # README.md - Homework Assignment 1
 
+This assignment is out of 20 points.
+
 In the space provided for you in <code>EXERCISES.md</code>, please complete the
 following exercises:
 
@@ -24,10 +26,10 @@ Instructions for how to download Homework 1 to your
 <code>README.md</code> file. It is available on
 [GitHub](https://github.com/mepcotterell-cs1302/cs1302-spring-2014-hw/blob/master/README.md).
 
-You should edit the files for this assignment using a plain text editor such
-as <code>emacs</code>, <code>vi</code>, or similar. Please be sure to include
-your name as well as the last three digits of you 810 number within each
-of the files you submit.
+You should edit the files for this assignment directly (don't make copies of them)
+using a plain text editor such as <code>emacs</code>, <code>vi</code>, or 
+similar. Please be sure to include your name as well as the last three digits of
+you 810 number within each of the files you submit.
 
 ## Submission Instructions
 
@@ -38,7 +40,7 @@ Please submit the following files:
  * Completed <code>DistConverter.java</code> file. (6 points)
 
 Programs submitted for this assignment will only be graded if they
-both compile and run on <code>nike.cs.uga.edu</code>.
+both compile and run on <code>nike.cs.uga.edu</code>. 
 
 Assuming your repository is under <code>~/cs1302-spring-2014-hw</code>, you can
 use the following commands to submit Homework 1:
