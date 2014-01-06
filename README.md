@@ -43,11 +43,29 @@ order to start working on Homework 1.
     ```
     $ cd ~
     ```
- 3. t
+ 3. Clone the repository into your home directory using the following command:
+
+    ```
+    $ git clone http://github.com/mepcotterell-cs1302/cs1302-spring-2014-hw.git
+    ```
+
+Now, in order to work on Homework 1, you can simply <code>cd</code> into the
+<code>cs1302-spring-2014-hw/hw1</code> directory that was created under your
+home directory. When you get future homework assignments, they will be
+located in a similar directory structure.
 
 ## Getting the Latest Homework Assignments
 
-In order to get the latest ver
+In order to get new homework assignments, you need to update your local copy
+of the repository. This can be done by issuing the <code>$ git pull</code>
+command from within the <code>cs1302-spring-2014-hw</code> directory. Assuming 
+you followed the instructions in the previous section, this can be done using
+the following commands:
+
+```
+$ cd ~/cs1302-spring-2014-hw
+$ git pull
+``
 
 ## Markdown Syntax
 
