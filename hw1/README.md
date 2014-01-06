@@ -7,7 +7,7 @@ following exercises:
  * Lewis: pp. 28, EX 1.1 - 1.6
  * Lewis: pp. 68, EX 2.1, 2.4 and 2.6 - 2.8
 
-Also, complete <code>GoDawgs.java</code> and <code>DistConverter.java</code.
+Also, complete <code>GoDawgs.java</code> and <code>DistConverter.java</code>.
 
 Since there was a problem notifying the book store about the Lewis text at the
 beginning of this semester, I've included the actual exercise text in the
@@ -35,7 +35,7 @@ Please submit the following files:
 
  * Completed <code>EXERCISES.md</code> file. (10 points)
  * Completed <code>GoDawgs.java</code> file. (4 points)
- * Completed <code>DistConverter.java<code> file. (6 points)
+ * Completed <code>DistConverter.java</code> file. (6 points)
 
 Programs submitted for this assignment will only be graded if they
 both compile and run on <code>nike.cs.uga.edu</code>.
