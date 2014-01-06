@@ -1,7 +1,7 @@
 
 # README.md - Homework Assignment 1
 
-This assignment is out of 20 points.
+This assignment is out of 20 points and is due on Friday 2014-01-17 @ 11:55 PM EST.
 
 In the space provided for you in <code>EXERCISES.md</code>, please complete the
 following exercises:
