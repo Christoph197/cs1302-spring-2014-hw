@@ -1,5 +1,5 @@
 
-# EXERCISES - Homework Assignment 1
+# EXERCISES.md - Homework Assignment 1
 
 Name: YOUR NAME HERE (LAST 3 DIGITS OF 810 NUMBER HERE)
 
