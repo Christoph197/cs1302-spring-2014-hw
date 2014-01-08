@@ -46,7 +46,7 @@ order to start working on Homework 1.
  3. Clone the repository into your home directory using the following command:
 
     ```
-    $ git clone http://github.com/mepcotterell-cs1302/cs1302-spring-2014-hw.git
+    $ git clone https://github.com/mepcotterell-cs1302/cs1302-spring-2014-hw.git
     ```
 
 Now, in order to work on Homework 1, you can simply <code>cd</code> into the
