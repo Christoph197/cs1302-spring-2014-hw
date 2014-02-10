@@ -142,7 +142,7 @@ The value in <code>size</code> is 15.
 
 Let's examine why:
 ```java
-size = 18;	  // assigns 18 to size; size is now 18
+size = 18;        // assigns 18 to size; size is now 18
 size = size + 12; // assigns 18 + 12 to size; size is now 30
 size = size * 2;  // assigns 30 * 2 to size; size is now 60
 size = size / 4;  // assigns 60 / 4 to size; size is now 15
@@ -168,11 +168,11 @@ The value of <code>depth</code> is 2.08
 Let's examine why:
 
 ```java
-depth = 2.4;		// assigns 2.4 to depth; depth is 2.4
-depth = 20 - depth * 4;	// assigns 20 - (2.4 * 4) = 10.4 to depth; depth
-       	       	 	// is now 10.4
-depth = depth / 5;	// assigns 10.4 / 5 = 2.08 to depth; depth is
-    	    	        // now 2.08
+depth = 2.4;            // assigns 2.4 to depth; depth is 2.4
+depth = 20 - depth * 4; // assigns 20 - (2.4 * 4) = 10.4 to depth; depth
+                        // is now 10.4
+depth = depth / 5;      // assigns 10.4 / 5 = 2.08 to depth; depth is
+                        // now 2.08
 ```
 
 # Lewis EX 2.8 (1 point)
