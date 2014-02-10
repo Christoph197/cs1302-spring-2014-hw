@@ -80,6 +80,7 @@ error, or logical error:**
  * typing a <code>{</code> when you should have typed a <code>(</code>
 </strong>
 
+Here are the corresponding error types:
  * logical error
  * run-time error
  * compile-time error
