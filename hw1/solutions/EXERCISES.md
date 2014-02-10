@@ -30,6 +30,7 @@ Note: Only two examples were required.
  * <code>hook&ladder</code>
 </strong>
 
+The following two are not valid:
  * <code>2ndLevel</code>, because identifiers cannot begin with a number.
  * <code>hook&ladder</code>, because it contains an operator.
 
@@ -37,12 +38,6 @@ Note: Only two examples were required.
 
 **Why are the following valid Java identifiers not considered good 
 identifiers?**
-
-<strong>
- * <code>q</code>
- * <code>totVal</code>
- * <code>theNextValueInTheList</code>
-</strong>
 
  * <code>q</code>, because it doesn't specificy meaning.
  * <code>totVal</code>, because it uses shortened words.
