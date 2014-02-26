@@ -21,21 +21,21 @@ link to it in the space below.**
 
 ## Exercise 3
 
-** (2 points) On Piazza, comment on another student’s post constructively, and provide a
+**(2 points) On Piazza, comment on another student’s post constructively, and provide a
 link to it in the space below.**
 
 
 
 ## Exercise 4
 
-** (2 points) On Piazza, comment on a second student’s post constructively, and provide a
+**(2 points) On Piazza, comment on a second student’s post constructively, and provide a
 link to it in the space below.**
 
 
 
 ## Exercise 5
 
-** (2 points) On Piazza, comment on a third student’s post constructively, and provide a
+**(2 points) On Piazza, comment on a third student’s post constructively, and provide a
 link to it in the space below.**
 
 
