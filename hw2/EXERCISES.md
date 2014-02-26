@@ -8,7 +8,7 @@ assignment.
 
 ## Exercise 1
 
-**(10 points) Start a constructive Java/Programming-related post on Piazza, and provide a
+**(10 points) Start a constructive Java Language or Programming-related post on Piazza, and provide a
 link to it in the space below.**
 
 
