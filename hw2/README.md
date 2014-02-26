@@ -12,6 +12,17 @@ Instructions for how to download Homework 2 to your
 <code>nike.cs.uga.edu</code> are included in the main repository
 <code>README.md</code> file. It is available on
 [GitHub](https://github.com/mepcotterell-cs1302/cs1302-spring-2014-hw/blob/master/README.md).
+If you already have a clone of the homewoek repository, then you should be able
+to change into its directory and use the <code>git pull</code> command to pull in
+the <code>hw2</code> directory.
+
+If it says that permission is denied when you attempt to pull, then try issuing
+the following commands inside of the repository directory before you attempt
+to pull again:
+
+```
+$ git remote set-url origin git@github.com:mepcotterell-cs1302/cs1302-spring-2014-hw.git
+```
 
 You should edit the files for this assignment directly (don't make copies of them)
 using a plain text editor such as <code>emacs</code>, <code>vi</code>, or 
