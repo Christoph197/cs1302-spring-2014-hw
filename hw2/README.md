@@ -24,6 +24,12 @@ to pull again:
 $ git remote set-url origin git@github.com:mepcotterell-cs1302/cs1302-spring-2014-hw.git
 ```
 
+If that does not solve the problem, then try this command before you attempt to pull again:
+
+```
+$ git remote set-url origin https://github.com/mepcotterell-cs1302/cs1302-spring-2014-hw.git
+```
+
 You should edit the files for this assignment directly (don't make copies of them)
 using a plain text editor such as <code>emacs</code>, <code>vi</code>, or 
 similar. Please be sure to include your name as well as the last three digits of
